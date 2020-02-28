@@ -8,3 +8,5 @@
 <p>Pin PA4.</p>
 <h4> Zapišite osnovni dve nastavitvi, ki so privzete za takšno pretvorbo: </h4> 
 <p>Output Buffer in Trigger.</p>
+<h4> Komentar: </h4>
+<p> Imela sva precej težav s ploščami in kodiranjem ampak ko smo šli na drug računalnik je vse delalo kot bi moglo.</p>
